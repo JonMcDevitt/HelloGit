@@ -17,4 +17,9 @@ class LinkedListTest {
         namesList.add("James");
         assertTrue(namesList.size()==1);
     }
+
+    @Test
+    public void remove() {
+
+    }
 }
